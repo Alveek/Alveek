@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Typescript, Redux**
 
-- 📝 I regularly (in plans) write articles on [alveek.xyz](alveek.xyz)
+- 📝 I regularly (in plans) write articles on [alveek.github.io](https://alveek.github.io)
 
 
 ## 💻 Tech Stack:
