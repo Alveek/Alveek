@@ -4,6 +4,7 @@
 💩 TypeScript <br/>
 💩 Tailwind CSS <br/>
 💩 БЭМ (терпимо) <br/>
+💩 SCSS <br/>
 💩 FSD <br/>
 💩 ООП <br/>
 
