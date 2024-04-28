@@ -1,4 +1,4 @@
-```console.log("Hello, toxic IT-World! 👋"```
+```console.log("Hello, toxic IT-World! 👋")```
 
 ## 🙅🏻‍♂ Технологии, которые я ненавижу:
 💩 TypeScript <br/>
